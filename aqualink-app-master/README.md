@@ -63,9 +63,6 @@ gcloud app browse
 ```
 
 ## Contributing
+Diana wanjiku 
+Job mawira
 
-Aqualink is an MIT-licensed open source project. Contributions from developers and scientists are welcome!
-
-## License
-
-  Aqualink is [MIT licensed](LICENSE).
