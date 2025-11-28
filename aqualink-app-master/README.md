@@ -9,7 +9,7 @@ This is the main repository for the Aqualink Coral Monitoring Application.
 ![Aqualink Screenshot - Map Page](packages/website/src/assets/img/readme-screenshot-map.png)
 
 ## Development
-The app is a monorepo managed by [Lerna](https://github.com/lerna/lerna) using 
+The app is a monorepo managed by [Lerna](https://github.com/dianashhh) using 
 [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/). Individual packages are found in the `./packages
 ` directory. The app has two primary components:
 
