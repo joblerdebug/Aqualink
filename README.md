@@ -1,4 +1,4 @@
-# AquaLink
+# [Aqualink](https://aqualink.org)
 
 ## Overview
 
